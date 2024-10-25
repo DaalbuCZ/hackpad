@@ -13,4 +13,4 @@ The biggest hurdle to overcome was definitely PCB design. I've previously never 
 - 1x Seeed XIAO RP2040
 - 20x 1N4148 THT Diodes
 - 1x SSD1306 0.91' OLED 128x32
-- 2x 4.7kΩ Vertical THT Resistors
+- 2x 4.7kΩ THT Resistors
